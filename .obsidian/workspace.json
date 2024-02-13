@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "c822cd977fb6cfd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "037048e70ba1716a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b4d151ed59b286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 18 Problem 7 (27077).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc5a214c4c9637ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcb6674a3787cf0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72922be8fdb52466",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97de8ff41322f76b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "025873743364be60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2e34a0025ab3ef66",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3fb6315fd92af7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "602ebe73d22c0b85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 18 Problem 7 (27077).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e132233ee57ae2cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 18 Problem 7 (27077).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d221f1d914b546b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f705adeeb2f05c18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 18 Problem 7 (27077).md"
+              }
+            }
+          },
+          {
+            "id": "cb69211bb01882dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "025873743364be60",
+  "lastOpenFiles": [
+    "Week 18 Problem 5 (27064).md",
+    "Week 18 Problem 6 (27076).md",
+    "Week 18 Problem 7 (27077).md",
+    "Math/Week 18 Problem 7 (27076).md",
+    "Math/Week 18 Problem 6 (27076).md",
+    "Math/Week 18 Problem 5 (27064).md",
+    "Math",
+    "Welcome.md"
+  ]
+}
