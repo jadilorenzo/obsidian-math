@@ -7,7 +7,7 @@ $$
 f'(x) &= \frac{1}{2 \cdot \sqrt{ x+1 }} \\
 f''(x) &=  -\frac{1}{4 \cdot(x+1)^{3/2}}\\
 f'''(x) &= \frac{3}{8\cdot(x+1)^{5/2}} \\
-f''''(x) &= -\frac{ 5\cdot\sqrt{ 3 }}{432}
+f''''(x) &= -\frac{15}{16 \cdot (x+1)^{7/2}}
 \end{align*}
 $$
 
