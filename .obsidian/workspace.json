@@ -4,6 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "62166323df5ce7ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bff48023ae364467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 18 Problem 8 (5925).md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "acd547d8e59d85d6"
+          }
+        ]
+      },
+      {
         "id": "037048e70ba1716a",
         "type": "tabs",
         "children": [
@@ -29,7 +48,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "acd547d8e59d85d6"
           }
         ],
         "currentTab": 1
