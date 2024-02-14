@@ -19,7 +19,7 @@ However, we are unsure of our numerator.
 $$
 f'''''(x) = \frac{105}{32 \cdot (x+1)^{9/2}}
 $$
-
+This makes our series: $1, 1, 3, 15, 105 \cdots$
 $$f(2) = \sqrt{ 3 }$$
 $$
 \begin{align*}
