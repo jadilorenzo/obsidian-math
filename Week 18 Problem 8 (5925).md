@@ -11,25 +11,6 @@ f''''(x) &= -\frac{15}{16 \cdot (x+1)^{7/2}}
 \end{align*}
 $$
 
-This means our function looks something like this:
-$$
-(-1)^{1 + n} \frac{\left( -\frac{1}{2} + n \right)!}{2(-1 + 2 n)(1/2)!}
-$$
-
-
-
-
-$$
-\frac{1}{2^k \cdot (x+1)^\left( n + \frac{1}{2} \right)}
-$$
-However, we are unsure of our numerator.
-$$
-f'''''(x) = \frac{105}{32 \cdot (x+1)^{9/2}}
-$$
-This makes our series: $1, 1, 3, 15, 105 \cdots$
-$$
-(2 (1/2 (2 n - 1))!)/(sqrt(π) (2 n - 1))
-$$
 
 $$f(2) = \sqrt{ 3 }$$
 $$
@@ -41,7 +22,9 @@ f''''(2) &= -\frac{ 5\cdot\sqrt{ 3 }}{432}
 \end{align*}
 $$
 
-
+$$
+\sum_{n=0}^{\infty}(-1)^{1+n}\frac{\left(-\frac{1}{2}+n\right)!}{2(-1+2n)(1/2)!}\left(3\right)^{\left(\frac{1}{2}-n\right)}\left(x-2\right)^{n}
+$$
 
 
 <div style='display: none'>
