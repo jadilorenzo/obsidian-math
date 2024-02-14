@@ -11,6 +11,11 @@ f''''(x) &= -\frac{15}{16 \cdot (x+1)^{7/2}}
 \end{align*}
 $$
 
+This means our function looks something like this:
+$$
+\frac{1}{2^k \cdot (x+1)^\left( n + \frac{1}{2} \right)}
+$$
+
 $$f(2) = \sqrt{ 3 }$$
 $$
 \begin{align*}
