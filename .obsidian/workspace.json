@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "093004a154270c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 18 Problem 10 (27065).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 18 Problem 9 (27068).md",
+                "file": "Week 18 Problem 10 (27065).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 18 Problem 9 (27068).md",
+                "file": "Week 18 Problem 10 (27065).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 18 Problem 9 (27068).md"
+                "file": "Week 18 Problem 10 (27065).md"
               }
             }
           },
@@ -180,9 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c8a62a497564ef0",
+  "active": "093004a154270c61",
   "lastOpenFiles": [
     "Week 18 Problem 9 (27068).md",
+    "Week 18 Problem 10 (27065).md",
     "Week 18 Problem 8 (5925).md",
     "Week 18 Problem 7 (27077).md",
     "Week 18 Problem 5 (27064).md",
