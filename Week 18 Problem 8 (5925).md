@@ -21,7 +21,7 @@ f'''''(x) = \frac{105}{32 \cdot (x+1)^{9/2}}
 $$
 This makes our series: $1, 1, 3, 15, 105 \cdots$
 $$
-\frac{(n - 1/2)!}{\sqrt{}\pi}
+\frac{(n - 1/2)!}{\sqrt{\pi}}
 $$
 
 $$f(2) = \sqrt{ 3 }$$
