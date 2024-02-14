@@ -13,7 +13,7 @@ $$
 
 This means our function looks something like this:
 $$
-(-1)^{1 + n} \frac{\left( \frac{-1 + 2 n}{2} \right)!}{((-1 + 2 n) \cdot \sqrt{π})}
+(-1)^{1 + n} \frac{\left( \frac{-1 + 2 n}{2} \right)!}{(-1 + 2 n) \cdot 2 \cdot(1/2)!}
 $$
 
 
