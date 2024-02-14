@@ -13,6 +13,13 @@ $$
 
 This means our function looks something like this:
 $$
+((-1)^{1 + n} (1/2 (-1 + 2 n))!)/((-1 + 2 n) sqrt(π))
+$$
+
+
+
+
+$$
 \frac{1}{2^k \cdot (x+1)^\left( n + \frac{1}{2} \right)}
 $$
 However, we are unsure of our numerator.
