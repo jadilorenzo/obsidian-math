@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "025873743364be60",
+  "active": "48b4d151ed59b286",
   "lastOpenFiles": [
     "Week 18 Problem 5 (27064).md",
     "Week 18 Problem 6 (27076).md",
