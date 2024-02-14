@@ -6,6 +6,7 @@
       {
         "id": "62166323df5ce7ab",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "bff48023ae364467",
@@ -25,6 +26,7 @@
       {
         "id": "037048e70ba1716a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "48b4d151ed59b286",
@@ -190,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6dfa522ff4d94a0",
+  "active": "bff48023ae364467",
   "lastOpenFiles": [
     "Week 18 Problem 8 (5925).md",
     "Week 18 Problem 7 (27077).md",
