@@ -21,4 +21,4 @@ f''''(2) &= -\frac{ 5\cdot\sqrt{ 3 }}{432}
 \end{align*}
 $$
 
-$$\displaystyle\sum_{n = 0} 3^{1/2 - n) binomial(1/2, n) (x - 2)^n$$
+$$\displaystyle\sum_{n = 0} 3^{\frac{1}{2} - n} \binom{\frac{1}{2}}{n} (x - 2)^n = \displaystyle\sum_{n = 0} 3^{\frac{1}{2} - n} \frac{\frac{1}{2}!}{n! \left( n - \frac{1}{2} \right)!} (x - 2)^n $$
