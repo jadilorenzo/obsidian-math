@@ -15,6 +15,10 @@ This means our function looks something like this:
 $$
 \frac{1}{2^k \cdot (x+1)^\left( n + \frac{1}{2} \right)}
 $$
+However, we are unsure of our numerator.
+$$
+f'''''(x) = \frac{105}{32 \cdot (x+1)^{9/2}}
+$$
 
 $$f(2) = \sqrt{ 3 }$$
 $$
