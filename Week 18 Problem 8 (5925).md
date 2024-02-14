@@ -20,3 +20,5 @@ f'''(2) &= \frac{\sqrt{ 3 }}{72} \\
 f''''(2) &= -\frac{ 5\cdot\sqrt{ 3 }}{432}
 \end{align*}
 $$
+
+$$\displaystyle\sum_{n = 0} 3^{1/2 - n) binomial(1/2, n) (x - 2)^n$$
