@@ -20,5 +20,16 @@ So we subtract $1$ from $n$ giving us
 $$\frac{\left(2\left(n+1\right)\right)!}{2^{\left(n+1\right)}\left(n+1\right)!}$$
 This makes our whole sum...
 $$f(x) = \displaystyle\sum_{n=1}^{\infty}\frac{2^{n}n!}{\frac{\left(2\left(n+1\right)\right)!}{2^{\left(n+1\right)}\left(n+1\right)!}}x^{\left(2n\ -1\right)} $$which can be simplified to:
-$$\frac{2^{1 + 2n} \cdot (1 + n) \cdot (n!)^2}{(2 \cdot (1 + n))!}
+$$\sum_{n=1}^{\infty}\frac{2^{1 + 2n} \cdot (1 + n) \cdot (n!)^2}{(2 \cdot (1 + n))!} x^{\left(2n\ -1\right)}
 .$$
+
+However, I do **not** need this as we can take the derivative term by term.
+
+(a) Prove that $(1 - x^2) f'(x) = 1 + xf(x).$  
+
+$$
+\begin{align*}
+f(x) &= x + \frac{2}{3} x^3 + \frac{2 \cdot 4}{3 \cdot 5} x^5 + \dots + \frac{2 \cdot 4 \dotsm 2n}{3 \cdot 5 \dotsm (2n + 1)} x^{2n + 1} + \dotsb \\
+f'(x) &= 1+2x^2+\dfrac{2\cdot4}{3}x^4+\dfrac{2\cdot4\cdot6}{3\cdot5}x^6+...+\dfrac{2\cdot4\cdots2n}{3\cdot5\cdots(2n-1)}x^{2n}
+\end{align*}
+$$
