@@ -61,3 +61,4 @@ Since we know
 $$(1 - x^2) f'(x) = 1 + xf(x),$$
 we can set
 $$g(x) = \sqrt{1 - x^2} f(x).$$
+$$g'(x) = \sqrt{1 - x^2} f(x).$$
