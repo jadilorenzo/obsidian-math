@@ -13,4 +13,8 @@ $$
 
 b) Find a reasonable bound for the maximum error of this approximation. (Notice that we're bounding the error in $x$ in this problem!)
 
-$\left| \frac{M}{(n+1)!}(c-a)^{n+1} \right|$ where $M = f(x)$
+The reasonable bound for the maximum error of this approximation is:  
+$$\left|\frac{\sin(x_0)x^3}{6}\right|,$$
+when $0\le x_0 \le x$ such that $\sin(x_0)$ is maximized. In part a), we found that $x \approx \sqrt{\frac{2}{3}}$, and $\sin(x_0)$ is maximized at this value.  
+We get,  
+$$\frac{\sin\left(\sqrt{\frac{2}{3}}\right)\cdot \left(\sqrt{\frac{2}{3}}\right)^3}{3!} \approx 0.066666...$$So, this is our reasonable bound.
