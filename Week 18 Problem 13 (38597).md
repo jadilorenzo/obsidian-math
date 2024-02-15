@@ -5,4 +5,4 @@ $$f(x) = x + \frac{2}{3} x^3 + \frac{2 \cdot 4}{3 \cdot 5} x^5 + \dots + \frac{2
 (b) Prove that $f(x) = \frac{\arcsin x}{\sqrt{1 - x^2}}.$
 
 Let's put $f(x)$ in summation form:
-$$f(x) = \displaystyle\sum_{x=1}^{\infty} 2(n!) $$
+$$f(x) = \displaystyle\sum_{x=1}^{\infty} \frac{(2(n!))^2}{n!} $$.
