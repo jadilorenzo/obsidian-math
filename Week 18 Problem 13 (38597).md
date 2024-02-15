@@ -30,6 +30,16 @@ However, I do **not** need this as we can take the derivative term by term.
 $$
 \begin{align*}
 f(x) &= x + \frac{2}{3} x^3 + \frac{2 \cdot 4}{3 \cdot 5} x^5 + \dots + \frac{2 \cdot 4 \dotsm 2n}{3 \cdot 5 \dotsm (2n + 1)} x^{2n + 1} + \dotsb \\
-f'(x) &= 1+2x^2+\dfrac{2\cdot4}{3}x^4+\dfrac{2\cdot4\cdot6}{3\cdot5}x^6+...+\dfrac{2\cdot4\cdots2n}{3\cdot5\cdots(2n-1)}x^{2n}
+f'(x) &= 1+2x^2+\frac{2\cdot4}{3}x^4+\dfrac{2\cdot4\cdot6}{3\cdot5}x^6+...+\frac{2\cdot4\cdots2n}{3\cdot5\cdots(2n-1)}x^{2n}
+\end{align*}
+$$
+Plugging this into the original equation for part <span style='color: gray'>a)</span> ...
+$$
+\begin{align*}
+(1 - x^2) f'(x) &= 1 + xf(x) \\
+(1 - x^2) 
+\left( 1+2x^2+\dfrac{2\cdot4}{3}x^4+\dfrac{2\cdot4\cdot6}{3\cdot5}x^6 + \dotsb \dfrac{2\cdot4\cdots2n}{3\cdot5\cdots(2n-1)}x^{2n} \dotsm \right) 
+&= \\ 1 + x \cdot 
+\left(x + \frac{2}{3} x^3 + \frac{2 \cdot 4}{3 \cdot 5} x^5 + \dots + \frac{2 \cdot 4 \dotsm 2n}{3 \cdot 5 \dotsm (2n + 1)} x^{2n + 1} \dotsm \right) \\
 \end{align*}
 $$
