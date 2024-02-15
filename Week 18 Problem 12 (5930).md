@@ -5,7 +5,10 @@ $$1 - \frac{1}{2}x^2$$
 and set it equal to $x^2$.
 $$
 \begin{align*}
-1 - \frac{1}{2}x^2 = x^2
+1 - \frac{1}{2}x^2 &= x^2 \\
+1  &= \frac{3}{2}x^2 \\
+\frac{2}{3}  &= x^2 \\
+\sqrt{ \frac{2}{3} }  &= x \\
 \end{align*}$$
 
 b) Find a reasonable bound for the maximum error of this approximation. (Notice that we're bounding the error in $x$ in this problem!)
