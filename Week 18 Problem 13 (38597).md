@@ -61,4 +61,11 @@ Since we know
 $$(1 - x^2) f'(x) = 1 + xf(x),$$
 we can set
 $$g(x) = \sqrt{1 - x^2} f(x).$$
-$$g'(x) = \sqrt{1 - x^2} f(x).$$
+$$g'(x) =  \frac{(1 - x^2) f'(x) - x f(x)}{\sqrt{1 - x^2}}$$
+This works out nicely, we know the numerator is $1$ so
+$$g'(x) =  \frac{1}{\sqrt{1 - x^2}}$$
+When we integrate this, we get
+$$g(x) = \arcsin(x)$$
+And then because
+$$\arcsin(x)= \sqrt{1 - x^2} f(x),$$
+$$f(x) = \boxed{ \frac{\arcsin(x)}{\sqrt{ 1 - x^2 }}}$$
