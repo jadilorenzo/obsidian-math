@@ -12,3 +12,5 @@ $$
 \end{align*}$$
 
 b) Find a reasonable bound for the maximum error of this approximation. (Notice that we're bounding the error in $x$ in this problem!)
+
+$\left| \frac{M}{(n+1)!}(c-a)^{n+1} \right|$ where $M = f(x)$
