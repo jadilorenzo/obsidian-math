@@ -19,4 +19,6 @@ $$1, 1, 3, 15, 105, 945 \cdots$$
 So we subtract $1$ from $n$ giving us
 $$\frac{\left(2\left(n+1\right)\right)!}{2^{\left(n+1\right)}\left(n+1\right)!}$$
 This makes our whole sum...
-$$f(x) = \displaystyle\sum_{n=1}^{\infty}\frac{2^{n}n!}{\frac{\left(2\left(n+1\right)\right)!}{2^{\left(n+1\right)}\left(n+1\right)!}}x^{\left(2n\ -1\right)} $$.
+$$f(x) = \displaystyle\sum_{n=1}^{\infty}\frac{2^{n}n!}{\frac{\left(2\left(n+1\right)\right)!}{2^{\left(n+1\right)}\left(n+1\right)!}}x^{\left(2n\ -1\right)} $$which can be simplified to:
+$$\frac{2^{1 + 2n} \cdot (1 + n) \cdot (n!)^2}{(2 \cdot (1 + n))!}
+.$$
