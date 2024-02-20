@@ -12,3 +12,5 @@ the ellipse takes on a near $45°$ slant. This is desirable because we want to p
 
 
 ![[Screenshot 2024-02-19 at 2.29.06 PM.png]]
+
+$$(u(t) \cdot \cos{\theta} - v(t) \cdot \sin{\theta}, u(t) \cdot \sin{\theta} + v(t) \cdot \cos{\theta})$$
