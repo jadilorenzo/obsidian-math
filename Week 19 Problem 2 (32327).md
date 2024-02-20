@@ -16,6 +16,7 @@ t &= \frac{2 \pi - \cos^{-1}\frac{2}{3}}{3\pi}
 $$
 Thus $B$ occurs at $t= \frac{2 \pi - \cos^{-1}\frac{2}{3}}{3\pi} \approx 0.57742.$ 
 
+
 Now we must find the $x$ and $y$ velocities at $A$. Point $A$ occurs at $x=2\pi$.
 $$
 \begin{align*}
@@ -31,6 +32,20 @@ u'(t) &= 6\pi - 9\pi\cos(3\pi t) \\
 v'(t) &= 9\pi\sin(3\pi t)
 \end{align*}$$
 $$\begin{align*}
-u'\left( \frac{1}{3} \right) &= 6\pi - 9\pi\cos(\pi) \\ 
-v'\left( \frac{1}{3} \right) &= 9\pi\sin(\pi)
+u'\left( \frac{1}{3} \right) &= 6\pi - 9\pi\cos(\pi) = 15\pi\\ 
+v'\left( \frac{1}{3} \right) &= 9\pi\sin(\pi) = 0
 \end{align*}$$
+Point $A$ is being drawn at $15\pi$ units horizontally per second.
+
+Now on to point $B$, which is drawn at $t= \frac{2 \pi - \cos^{-1}\frac{2}{3}}{3\pi} \approx 0.57742.$ 
+$$\begin{align*}
+u'\left(\frac{2 \pi - \cos^{-1}\frac{2}{3}}{3\pi} \right) &= 6\pi - 9\pi\cos\left(3\pi \left(\frac{2 \pi - \cos^{-1}\frac{2}{3}}{3\pi} \right)\right) = 0\\ 
+v'\left(\frac{2 \pi - \cos^{-1}\frac{2}{3}}{3\pi} \right) &= 9\pi\sin\left(3\pi \left(\frac{2 \pi - \cos^{-1}\frac{2}{3}}{3\pi} \right)\right) = -3\pi \sqrt{ 5 }
+\end{align*}$$
+Thus, point $B$ is being drawn at $-3\pi \sqrt{ 5 }$ units vertically per second.
+
+
+The question asks for $\frac{v_A}{v_B}.$
+$$
+\frac{v_A}{v_B} = \frac{15\pi}{-3\pi \sqrt{ 5 } } = -\frac{5}{\sqrt{ 5 }} = \boxed{-\sqrt{ 5 }}
+$$

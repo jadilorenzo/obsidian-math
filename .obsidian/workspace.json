@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5cbca72b43facd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 19 Problem 2 (32327).md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 19 Problem 2 (32327).md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 19 Problem 2 (32327).md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e23c102f29144d67",
+  "active": "e5cbca72b43facd8",
   "lastOpenFiles": [
-    "Week 19 Problem 1, part (d) (5945).md",
     "Week 19 Problem 2 (32327).md",
+    "Untitled.md",
+    "Week 19 Problem 1, part (d) (5945).md",
     "Screenshot 2024-02-19 at 2.29.06 PM.png",
     "Week 18 Problem 7 (27077).md",
     "Week 18 Problem 12 (5930).md",
