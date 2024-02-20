@@ -6,7 +6,10 @@ With some experimentation and careful reasoning, we see the path of our point is
 We know point $A$ occurs at $x=2\pi$. However, we do not know the $x$-coordinate of $B$. We know $y = 0 = 6\pi t\ -\ 3\sin\left(3\pi t\right)$.
 $$
 \begin{align}
-0 = 6\pi t\ -\ 3\sin\left(3\pi t\right) \\ \\
-t = 2 π - \arccos\(40)Divide[2,3]\(41)\(41),\(40)3 π\(41)]
+0 &= 6\pi t\ -\ 3\sin\left(3\pi t\right) \\
+t &= \frac{2 \pi - \cos^{-1}\frac{2}{3}}{3\pi}
 \end{align}
 $$
+Thus $B$ occurs at $t= \frac{2 \pi - \cos^{-1}\frac{2}{3}}{3\pi} = 0.57742.$ 
+
+Now we must find the $x$ and $y$ velocities at $A$. Point $A$ occurs at $x=2\pi$.
