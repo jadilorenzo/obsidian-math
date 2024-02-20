@@ -6,8 +6,8 @@ $$
 u\left(t\right)&=c_{0}\cos(t)+\frac{5}{2} \\ v\left(t\right)&=c_{1}\sin(t)+\frac{1}{2}.
 \end{align*}
 $$
-However, no matter what $c$ we use our function will never be slanted. Upon experimentation, if we assign $$v(t) = c_{0} \sin(t - 1) + \frac{1}{2},$$
-the ellipse takes on a  $-45°$ slant. This is desired so we can place $(1,2)$ on the ellipse's edge.
+However, no matter what $c$ we use our function will never be slanted. Upon experimentation, if we assign $$v(t) = c_{0} \sin\left( t + \frac{\pi}{4} \right) + \frac{1}{2},$$
+the ellipse takes on a near $45°$ slant. This is desirable because we want to place $(1,2)$ on the ellipse's edge and the foci on the major axis. However, our function is only *near* a $45°$ slant when we use $c$ values where $\frac{c_{0}}{c_{1}} \appx $.
 
 
 
