@@ -21,12 +21,22 @@ $$
 (u_{o}(t) \cdot \cos{\theta} - v_{o}(t) \cdot \sin{\theta},\ u_{o}(t) \cdot \sin{\theta} + v_{o}(t) \cdot \cos{\theta})
 $$But if we add our constants back in, 
 $$\begin{align*}
-u_{o}(t) &= c_{0} \cos(t) + h\\
-v_{o}(t) &= c_{1} \sin(t) +k
+u(t) &= c_{0} \cos(t) + h\\
+v(t) &= c_{1} \sin(t) +k
 \end{align*}$$
-we get a graph of an ellipse 
+we get a graph of an ellipse rotated around the origin instead of it's center. Thus we add $h$ and $k$ after the transformation to get our final result:
+$$
+\begin{align*}
+u(t) &= \cos(\theta) (c_{0} \cos(t)) - \sin(\theta)(c_{1} \sin(t)) + h\\
+v(t) &= \sin(\theta) (c_{1} \sin(t)) + \cos(\theta)(c_{0} \cos(t)) + k
+\end{align*}
+$$
+Now all we have to do is assign our constants $c_{0}$, $c_{1}$ and $\theta$.
+$$
+\begin{align*}
 
-
+\end{align*}
+$$
 ![[Screenshot 2024-02-19 at 2.29.06 PM.png]]
 
 $$(u(t) \cdot \cos{\theta} - v(t) \cdot \sin{\theta}, u(t) \cdot \sin{\theta} + v(t) \cdot \cos{\theta})$$
