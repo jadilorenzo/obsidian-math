@@ -47,5 +47,5 @@ Thus, point $B$ is being drawn at $-3\pi \sqrt{ 5 }$ units vertically per second
 
 The question asks for $\frac{v_A}{v_B}.$
 $$
-\frac{v_A}{v_B} = \frac{15\pi}{-3\pi \sqrt{ 5 } } = -\frac{5}{\sqrt{ 5 }} = \boxed{-\sqrt{ 5 }}
+\frac{v_A}{v_B} = \frac{15\pi}{-3\pi \sqrt{ 5 } } = -\frac{5}{\sqrt{ 5 }} = \boxed{}-\sqrt{ 5 }
 $$
