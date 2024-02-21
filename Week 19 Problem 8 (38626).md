@@ -12,5 +12,13 @@ Our equation is
 $$\begin{align*}
 u(t)&=r(t-\sin t)\\
 v(t)&=r(1-\cos t)
+\end{align*}$$$$\begin{align*}
+u'(t)&=r(1-\cos t)\\
+v'(t)&=r(\sin t)
 \end{align*}$$
-There for the arc lengh from $0 
+Therefore for the arc length from $0 \to 2\pi$ is
+$$
+\begin{align*}
+\int_{0}^{2\pi} \sqrt{ (r(1-\cos t))^2 + (r(\sin t))^2 } \, dt = 8r
+\end{align*}
+$$
