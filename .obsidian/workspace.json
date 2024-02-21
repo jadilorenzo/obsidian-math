@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "141f881235770cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 19 Problem 6 (5948).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 19 Problem 4 (5949).md",
+                "file": "Week 19 Problem 6 (5948).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 19 Problem 4 (5949).md",
+                "file": "Week 19 Problem 6 (5948).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 19 Problem 4 (5949).md"
+                "file": "Week 19 Problem 6 (5948).md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5219352798347eb",
+  "active": "141f881235770cdd",
   "lastOpenFiles": [
-    "Week 19 Problem 3 (5947).md",
     "Week 19 Problem 4 (5949).md",
+    "Week 19 Problem 6 (5948).md",
+    "Week 19 Problem 3 (5947).md",
     "Week 19 Problem 2 (32327).md",
     "Week 19 Problem 1, part (d) (5945).md",
     "Screenshot 2024-02-19 at 2.29.06 PM.png",
