@@ -1,2 +1,5 @@
-real f(real t) {return(cos(t) + t*sin(t));}  
-real g(real t) {return(sin(t) - t*cos(t));}
+$$
+\begin{align*}
+f(t) &=\cos(t) + t \cdot \sin(t) \\
+g(t) &=\sin(t) - t \cdot \cos(t)
+\end{align*}$$
