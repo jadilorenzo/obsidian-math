@@ -63,7 +63,7 @@
               "state": {
                 "file": "Week 19 Problem 7 (5951).md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -205,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ae73d6e901c03bc",
+  "active": "72922be8fdb52466",
   "lastOpenFiles": [
     "Week 19 Problem 6 (5948).md",
     "Week 19 Problem 7 (5951).md",
