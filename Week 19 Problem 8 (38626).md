@@ -36,3 +36,4 @@ We'll break this problem into two parts
 Part 1)
 $U$ is defined as $(u_{1}(u), v_{1}(u))$ for some $\pi \le u \le 3\pi$ so the distance between $A$ and $U$ is
 $$\left| \int_{2\pi}^u \sqrt{ (u'(t))^2 + (v'(t))^2 } \, dt \right| = 2r\left(-2\cos \left(\frac{u}{2}\right)+2\right)$$
+$$\int_{2\pi}^{u} \sqrt{ (r(1-\cos t))^2 + (r(\sin t))^2 } \, dt = $$
