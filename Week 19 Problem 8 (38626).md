@@ -29,3 +29,10 @@ Hint:
 
 For part (b), suppose that the string touches the cycloid for $0 \le t \le u.$ Let $U = (r(u - \sin u), r(1 - \cos u)).$ Compute the length of the arc from $A$ to $U,$ and note that $BU$ is taut, so it is straight. Use this to compute the coordinates of $B$.
 
+We'll break this problem into two parts 
+1) Distance from $A$ to $U$
+2) Distance from $U$ to $B$
+
+Part 1)
+$U$ is defined as $(u_{1}(u), v_{1}(u))$ for some $\pi \le u \le 3\pi$ so the distance between $A$ and $U$ is
+$$\left| \int_{2\pi}^u \sqrt{ (u'(t))^2 + (v'(t))^2 } \, dt \right|$$
