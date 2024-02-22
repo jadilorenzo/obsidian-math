@@ -35,4 +35,4 @@ We'll break this problem into two parts
 
 Part 1)
 $U$ is defined as $(u_{1}(u), v_{1}(u))$ for some $\pi \le u \le 3\pi$ so the distance between $A$ and $U$ is
-$$\int_{2\pi}^{u} \sqrt{ (r(1-\cos t))^2 + (r(\sin t))^2 } \, dt = 4r\cos\left(\frac{t}{2}\right)+4r$$
+$$\int_{0}^{u} \sqrt{ (r(1-\cos t))^2 + (r(\sin t))^2 } \, dt = 4r\cos\left(\frac{t}{2}\right)-4r$$
