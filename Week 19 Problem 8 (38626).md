@@ -38,4 +38,18 @@ $U$ is defined as $(u_{1}(u), v_{1}(u))$ for some $\pi \le u \le 3\pi$ so the di
 $$\int_{2\pi}^{u} \sqrt{ (r(1-\cos t))^2 + (r(\sin t))^2 } \, dt = 4r\cos\left(\frac{t}{2}\right)+4r$$
 
 Part 2)
-Now we must find the distance between $U$ and $B$ 
+Now we must find the distance between $U$ and $B$. We are trying to prove the string connecting $A$, $U$ and $B$ goes along 
+$$
+\begin{align*}
+u_{2}(t) &= r(t + \sin t) \\ 
+v_{2}(t) &= r(3 + \cos t).
+\end{align*}
+$$
+If this line does reach this path, its length will be a constant $4r$. This slope is
+$$\frac{v_{1}(t) - v_{2}(t)}{u_{1}(t) - u_{2}(t)}
+$$
+$$
+\begin{align*}
+r\left( \frac{(t - \sin t) - (t+\sin t)}{(1 + \cos t ) - (3 + \cos t)} \right) = r\left( \frac{ -2 \sin t}{-2} \right)
+\end{align*}
+$$
