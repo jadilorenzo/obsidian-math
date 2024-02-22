@@ -10,11 +10,11 @@ Prove that as the string is unwrapped, the point $B$ traces a path that is par
 The parametric arc length formula is $$\int_{a}^b \sqrt{ (u'(t))^2 + (v'(t))^2 } \, dt .$$
 Our equation is 
 $$\begin{align*}
-u(t)&=r(t-\sin t)\\
-v(t)&=r(1-\cos t)
+u_{1}(t)&=r(t-\sin t)\\
+v_{1}(t)&=r(1-\cos t)
 \end{align*}$$$$\begin{align*}
-u'(t)&=r(1-\cos t)\\
-v'(t)&=r(\sin t)
+u'_{1}(t)&=r(1-\cos t)\\
+v'_{1}(t)&=r(\sin t)
 \end{align*}$$
 Therefore for the arc length from $0 \to 2\pi$ is
 $$
@@ -24,3 +24,8 @@ $$
 $$
 
 (b)
+
+Hint:
+
+For part (b), suppose that the string touches the cycloid for $0 \le t \le u.$ Let $U = (r(u - \sin u), r(1 - \cos u)).$ Compute the length of the arc from $A$ to $U,$ and note that $BU$ is taut, so it is straight. Use this to compute the coordinates of $B$.
+
