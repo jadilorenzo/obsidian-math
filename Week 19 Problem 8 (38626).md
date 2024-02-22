@@ -22,3 +22,5 @@ $$
 \int_{0}^{2\pi} \sqrt{ (r(1-\cos t))^2 + (r(\sin t))^2 } \, dt = 8r
 \end{align*}
 $$
+
+(b)
