@@ -50,6 +50,6 @@ $$\frac{v_{1}(t) - v_{2}(t)}{u_{1}(t) - u_{2}(t)}
 $$
 $$
 \begin{align*}
-r\left( \frac{(t - \sin t) - (t+\sin t)}{(1 + \cos t ) - (3 + \cos t)} \right) = r\left( \frac{ -2 \sin t}{-2} \right)
+r\left( \frac{(t - \sin t) - (t+\sin t)}{(1 - \cos t ) - (3 + \cos t)} \right) = r\left( \frac{ -2 \sin t}{-2 + \cos t} \right) 
 \end{align*}
 $$
