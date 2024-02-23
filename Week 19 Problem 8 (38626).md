@@ -38,9 +38,7 @@ $U$ is defined as $(u_{1}(u), v_{1}(u))$ for some $\pi \le u \le 3\pi$ so the di
 $$
 \begin{align*}
 \int_{2\pi}^{u} \sqrt{ (r(1-\cos t))^2 + (r(\sin t))^2 } \, dt &= r\int_{2\pi}^{u} \sqrt{ (1-\cos t)^2 + (\sin t)^2 } \, dt \\
-&= r\int_{2\pi}^{u} \sqrt{ 2 - 2 \cos t } \, dt \\
-&= 4-2\sqrt{ 2-2\cos(x) } \cot\left(\frac{x}{2}\right) \\
-&=4r\cos\left(\frac{t}{2}\right)+4r
+&=-4r\cos\left(\frac{t}{2}\right)+4r
 \end{align*}
 $$
 (This final conversion works because we want arc length for $U$ points before $A$ as well as those after)
@@ -61,3 +59,8 @@ $$
 \frac{(1 - \cos t ) - (3 + \cos t)}{(t - \sin t) - (t+\sin t)} = \frac{-2 - 2\cos t}{ -2 \sin t} = \frac{1+\cos t}{\sin t} = \frac{1}{\tan \frac{t}{2}}
 \end{align*}
 $$
+We plot this and it is the proper slope for such a line as $y-v_{2}\left(u\right)=\tan\left(\frac{u}{2}\right)^{-1}(x-u_{2}\left(u\right)).$ 
+Now, we must find the length of $\overline{UB}$. Using a technique developed by our friend Pythagoras:
+$$r\sqrt{ (1 + \cos t)^2 + (\sin t)^2 } = 4r \cos\left( \frac{t}{2} \right).$$
+
+Wow! Since $$-4r\cos\left(\frac{t}{2}\right)+4r + 4r \cos\left( \frac{t}{2} \right) = 4r,$$ we have proved the problem statement.
