@@ -37,11 +37,13 @@ Part 1)
 $U$ is defined as $(u_{1}(u), v_{1}(u))$ for some $\pi \le u \le 3\pi$ so the distance between $A$ and $U$ is
 $$
 \begin{align*}
-\int_{2\pi}^{u} \sqrt{ (r(1-\cos t))^2 + (r(\sin t))^2 } \, dt &= \int_{2\pi}^{u} \sqrt{ (1-\cos t)^2 + (\sin t)^2 } \, dt \\
-&= \int_{2\pi}^{u} \sqrt{ 2 - 2 \cos t } \, dt \\
+\int_{2\pi}^{u} \sqrt{ (r(1-\cos t))^2 + (r(\sin t))^2 } \, dt &= r\int_{2\pi}^{u} \sqrt{ (1-\cos t)^2 + (\sin t)^2 } \, dt \\
+&= r\int_{2\pi}^{u} \sqrt{ 2 - 2 \cos t } \, dt \\
+&= 4-2\sqrt{ 2-2\cos(x) } \cot\left(\frac{x}{2}\right) \\
 &=4r\cos\left(\frac{t}{2}\right)+4r
 \end{align*}
 $$
+(This final conversion works because we want arc length for $U$ points before $A$ as well as those after)
 
 Part 2)
 Now we must find the distance between $U$ and $B$. We are trying to prove the string connecting $A$, $U$ and $B$ goes along 
@@ -56,6 +58,6 @@ $$\frac{v_{1}(t) - v_{2}(t)}{u_{1}(t) - u_{2}(t)}
 $$
 $$
 \begin{align*}
-r\left( \frac{(t - \sin t) - (t+\sin t)}{(1 - \cos t ) - (3 + \cos t)} \right) = r\left( \frac{ -2 \sin t}{-2 - 2\cos t} \right) 
+r\left( \frac{(t - \sin t) - (t+\sin t)}{(1 - \cos t ) - (3 + \cos t)} \right) = r\left( \frac{ -2 \sin t}{-2 - 2\cos t} \right) = -2r\left( \frac{\sin t}{1+\cos t} \right) 
 \end{align*}
 $$
