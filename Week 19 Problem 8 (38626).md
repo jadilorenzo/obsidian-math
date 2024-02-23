@@ -54,10 +54,10 @@ v_{2}(t) &= r(3 + \cos t).
 \end{align*}
 $$
 If this line does reach this path, its length will be a constant $4r$. This slope is
-$$\frac{v_{1}(t) - v_{2}(t)}{u_{1}(t) - u_{2}(t)}
+$$\frac{u_{1}(t) - u_{2}(t)}{v_{1}(t) - v_{2}(t)}
 $$
 $$
 \begin{align*}
-r\left( \frac{(t - \sin t) - (t+\sin t)}{(1 - \cos t ) - (3 + \cos t)} \right) = r\left( \frac{ -2 \sin t}{-2 - 2\cos t} \right) = -2r\left( \frac{\sin t}{1+\cos t} \right) 
+\frac{(1 - \cos t ) - (3 + \cos t)}{(t - \sin t) - (t+\sin t)} = \frac{-2 - 2\cos t}{ -2 \sin t} = \frac{1+\cos t}{\sin t} = \frac{1}{\tan \frac{t}{2}}
 \end{align*}
 $$
