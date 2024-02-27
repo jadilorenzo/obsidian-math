@@ -39,9 +39,14 @@ $$
 $$
 The $y$ derivative of this function at $\frac{\pi}{4}$ is:
 $$
-y' = \frac{\sqrt{ 2 }}{2} + 1.
+y'\left( \frac{\pi}{4} \right) = \frac{\sqrt{ 2 }}{2} + 1.
 $$
 Now let's do the same for the $x$ derivative.
 $$
 x=\cos\left(\theta\right)\left(1+\sin\theta\right)
 $$
+$$\frac{dx}{d\theta} = \cos^2\theta-\sin \theta(1 + \sin \theta)$$The $x$ derivative of this function at $\frac{\pi}{4}$ is:
+$$
+x'\left( \frac{\pi}{4} \right) = -\frac{\sqrt{ 2 }}{2}-\frac{1}{2}.
+$$
+$$\frac{x'}{y'} = \frac{-\frac{\sqrt{ 2 }}{2}-\frac{1}{2}}{ \frac{\sqrt{ 2 }}{2} + 1 } = -\frac{\sqrt{2}}{2}$$
