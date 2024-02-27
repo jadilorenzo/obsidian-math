@@ -7,3 +7,5 @@ $$\frac{1}{2}\int^{\frac{7\pi}{4}}_{\frac{5\pi}{4}} {\left(2 + 2 \sqrt{2} \sin \
 Part (b):
 
 $r = 2 + 2 \sqrt{2} \sin \theta.$
+
+$$2\pi -\sin^{-1}\left( \frac{1}{2\sqrt{ 2 }} \right)$$
