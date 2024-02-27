@@ -1,0 +1,1 @@
+Describe the shape of the graph of $$r = \frac{1}{1 + e \cos \theta},$$ when plotted using polar coordinates. Here, $e$ is a parameter that varies over real numbers, and the shape of the graph will depend on the value of $e.$
