@@ -39,7 +39,7 @@ $$
 $$
 The $y$ derivative of this function at $\frac{\pi}{4}$ is:
 $$
-\frac{\sqrt{ 2 }}{2} + 1.
+y' = \frac{\sqrt{ 2 }}{2} + 1.
 $$
 Now let's do the same for the $x$ derivative.
 $$
