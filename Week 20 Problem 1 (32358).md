@@ -28,5 +28,7 @@ $$
 \sqrt{ 2 } + \frac{3}{2} &= 2x^2 \\
 \frac{\sqrt{ 2 }}{2} + \frac{3}{4} &= x^2 \\
 \frac{2\sqrt{ 2 } + 3}{4} &= x^2 \\
+\frac{\sqrt{ 2\sqrt{ 2 } + 3}}{2} &= x \approx 1.2071067811866. \\
 \end{align*}
 $$
+This means our inter
