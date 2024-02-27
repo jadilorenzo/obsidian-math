@@ -9,3 +9,6 @@ Part (b):
 $r = 2 + 2 \sqrt{2} \sin \theta.$
 
 $$2\pi -\sin^{-1}\left( \frac{1}{2\sqrt{ 2 }} \right)$$
+
+
+$\left(-\frac{\sqrt{14}}{4}, -\frac{1}{2\sqrt{2}}\right)$
