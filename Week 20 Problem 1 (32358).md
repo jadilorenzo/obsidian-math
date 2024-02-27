@@ -49,4 +49,6 @@ $$\frac{dx}{d\theta} = \cos^2\theta-\sin \theta(1 + \sin \theta)$$The $x$ deriva
 $$
 x'\left( \frac{\pi}{4} \right) = -\frac{\sqrt{ 2 }}{2}.
 $$
-$$\frac{y'}{x'} = \frac{-\frac{\sqrt{ 2 }}{2}}{ \frac{\sqrt{ 2 }}{2} + 1 } = -\sqrt{2} - 1$$
+So the slope of the line at $\theta = \frac{\pi}{4}$ is $$\frac{y'}{x'} = \frac{-\frac{\sqrt{ 2 }}{2}}{ \frac{\sqrt{ 2 }}{2} + 1 } = -\sqrt{2} - 1.$$
+Using the equation $$y= \left(-\sqrt{ 2 } -1\right)\left(x-\frac{\sqrt{2\sqrt{2}+3}}{2}\right)\ +\frac{\sqrt{2\sqrt{2}+3}}{2},$$we see the $x$-intercept is
+$$\boxed{\frac{\sqrt{2}+2}{2}.}$$

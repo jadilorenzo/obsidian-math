@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b9b4fc883be7891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 20 Problem 3, part (c) (32339).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 20 Problem 1 (32358).md",
+                "file": "Week 20 Problem 3, part (c) (32339).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 20 Problem 1 (32358).md",
+                "file": "Week 20 Problem 3, part (c) (32339).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 20 Problem 1 (32358).md"
+                "file": "Week 20 Problem 3, part (c) (32339).md"
               }
             }
           },
@@ -157,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ac132b65b76dec2",
+  "active": "6b9b4fc883be7891",
   "lastOpenFiles": [
-    "Week 18 Problem 5 (27064).md",
     "Week 20 Problem 1 (32358).md",
+    "Week 20 Problem 3, part (c) (32339).md",
+    "Week 18 Problem 5 (27064).md",
     "Week 19 Problem 8 (38626).md",
     "Week 19 Problem 7 (5951).md",
     "Week 19 Problem 6 (5948).md",
