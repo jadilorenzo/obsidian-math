@@ -31,4 +31,17 @@ $$
 \frac{\sqrt{ 2\sqrt{ 2 } + 3}}{2} &= x \approx 1.2071067811866. \\
 \end{align*}
 $$
-This means our inter
+This means our $(x, y)$ coordinate is $(1.207106, 1.207106).$ 
+Now, we must find a function for $y$ in terms of $\theta$
+$$y =\sin\left(\theta\right)\left(1 + \sin\theta\right).$$
+$$
+\frac{dy}{d\theta} = \cos \theta \cdot(2\sin \theta+1)
+$$
+The $y$ derivative of this function at $\frac{\pi}{4}$ is:
+$$
+\frac{\sqrt{ 2 }}{2} + 1.
+$$
+Now let's do the same for the $x$ derivative.
+$$
+x=\cos\left(\theta\right)\left(1+\sin\theta\right)
+$$
