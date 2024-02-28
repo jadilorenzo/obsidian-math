@@ -23,4 +23,5 @@ In polar coordinates, this is
 $$r=\sqrt{2\cos2\theta}.$$
 
 (c)
-If ()
+If $(XP)(XQ) = 2a^2$, it would look like an elongated oval.
+If $(XP)(XQ) = \frac{a^2}{2}$, it would look like two circles surround $P$ and $Q$. 
