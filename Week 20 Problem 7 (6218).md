@@ -3,6 +3,7 @@ Let $P = (a,0)$ and $Q = (-a,0)$ for some positive number $a$, and consider the 
 (b) Write $C$ as the graph of a polar equation $r = f(\theta)$.  
 (c) Suppose instead we had $D$ defined as the set of all points $X$ such that $(XP)(XQ) = 2a^2$. Sketch $D$. What if we used $(XP)(XQ) = \frac12a^2$ instead?
 
+(a)
 If we set the point $X$ to $$X = (x_{1}, y_{1}),$$by the distance formula, we get: 
 $$\sqrt{(-a-x_{1})^{2}+(0-y_{1})^{2}}\sqrt{(a-x_{1})^{2}+(0-y_{1})^{2}}=a^2$$ which we can simplify.
 $$
@@ -13,3 +14,13 @@ $$
 -2 a^2 x_1^2 + 2 a^2 y_1^2 + 2 x_1^2 y_1^2 + x_1^4 + y_1^4 = 0
 \end{align*}
 $$
+
+Graphed this equation looks like an $\infty$ symbol that goes from $-\sqrt{ 2 }$ to $\sqrt{ 2 }$.
+![[Screenshot 2024-02-28 at 3.55.49 PM.png]]
+
+(b)
+In polar coordinates, this is
+$$r=\sqrt{2\cos2\theta}.$$
+
+(c)
+If ()
