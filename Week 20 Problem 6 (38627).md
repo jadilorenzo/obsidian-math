@@ -21,4 +21,11 @@ dot("$O$", O, W);
 dot("$P = (f(\theta), \theta)$", P, E);
 [/asy]
 ![](https://latex.artofproblemsolving.com/e/c/4/ec451c834b3081fa63930080102b973879ffc395.png)
-We are trying to prove that $$\tan \alpha = \frac{f(\theta)}{f'(\theta)}.$$To do this, we draw a parallel line to the tangent line that goes through $P$. This means the slope of the line going through $O$ is $m = \tan(\beta).$ 
+We are trying to prove that $$\tan \alpha = \frac{f(\theta)}{f'(\theta)}.$$To do this, we draw a parallel line to the tangent line that goes through $P$. This means the slope of the line going through $O$ is $m = \tan(\alpha + \theta).$ Now we must find the slope of the tangent line that goes through $P$:
+$$\frac{dy/d \theta}{dx/d \theta} = \frac{d\left( \sin\theta\cdot f(\theta) \right)}{d\left( \cos\theta\cdot f(\theta) \right) } = \frac{f(\theta) \cos \theta + f'(\theta) \sin \theta}{- f(\theta)\sin \theta + f'(\theta) \cos \theta}.$$
+
+Since these lines are parallel, we know that 
+$$\begin{align*}
+\frac{f(\theta) \cos \theta + f'(\theta) \sin \theta}{- f(\theta)\sin \theta + f'(\theta) \cos \theta} &= \tan(\alpha + \theta) \\
+{f(\theta) \cos \theta + f'(\theta) \sin \theta} &= \tan(\alpha + \theta) \left( {- f(\theta)\sin \theta + f'(\theta) \cos \theta} \right) 
+\end{align*}$$
