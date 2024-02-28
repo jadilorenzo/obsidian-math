@@ -27,5 +27,10 @@ $$\frac{dy/d \theta}{dx/d \theta} = \frac{d\left( \sin\theta\cdot f(\theta) \rig
 Since these lines are parallel, we know that 
 $$\begin{align*}
 \frac{f(\theta) \cos \theta + f'(\theta) \sin \theta}{- f(\theta)\sin \theta + f'(\theta) \cos \theta} &= \tan(\alpha + \theta) \\
-{f(\theta) \cos \theta + f'(\theta) \sin \theta} &= \tan(\alpha + \theta) \left( {- f(\theta)\sin \theta + f'(\theta) \cos \theta} \right) 
+{f(\theta) \cos \theta + f'(\theta) \sin \theta} &= \tan(\alpha + \theta) \left( {- f(\theta)\sin \theta + f'(\theta) \cos \theta} \right) \\
+{f(\theta) \cos \theta + f'(\theta) \sin \theta} &= \cos\theta \tan(\alpha + \theta) f'(\theta) - f(\theta) \sin\theta \tan(\alpha + \theta) \\
+{f(\theta) \cos \theta + f(\theta) \sin\theta \tan(\alpha + \theta) } &= \cos\theta \tan(\alpha + \theta) f'(\theta) - f'(\theta) \sin \theta \\
+\frac{f(\theta)}{f'(\theta)} &= \frac{\cos\theta \tan(\alpha + \theta) - \sin \theta}{ \cos \theta + \sin\theta \tan(\alpha + \theta) } \\
+\frac{f(\theta)}{f'(\theta)} &= \tan \alpha.
 \end{align*}$$
+This proves the problem statement.
