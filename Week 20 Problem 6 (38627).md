@@ -20,4 +20,5 @@ label("$\alpha$", (0.1,0.3));
 dot("$O$", O, W);
 dot("$P = (f(\theta), \theta)$", P, E);
 [/asy]
-
+![](https://latex.artofproblemsolving.com/e/c/4/ec451c834b3081fa63930080102b973879ffc395.png)
+We are trying to prove that $$\tan \alpha = \frac{f(\theta)}{f'(\theta)}.$$To do this, we draw a parallel line to the tangent line that goes through $P$. This means the slope of the line going through $O$ is $m = \tan(\beta).$ 
