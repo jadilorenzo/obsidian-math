@@ -13,4 +13,7 @@ $$A = \frac{1}{4} \sqrt{ 4a^2b^2 - (a^2 + b^2 - c^2)^2 }$$
 Substituting in $c$ and the proper values for $a$ and $b$:
 $$A = \frac{1}{4} \sqrt{ 4r_{1}^2r_{2}^2 - \left(r_{1}^2 + r_{2}^2 - \left( r_{1}^2 + r_{2}^2 - 2r_{1}r_{2}\cos |\theta_{1}-\theta_{2}| \right)\right)^2 }$$
 which simplifies to:
-$$\frac{1}{2}\sqrt{r_1r_2\left(1-r_1r_2\cos ^2\left(\left|θ_1-θ_2\right|\right)\right)}$$
+$$A = \frac{1}{2}\sqrt{r_1r_2\left(1-r_1r_2\cos ^2\left(\left|θ_1-θ_2\right|\right)\right)}$$
+
+This means our equation for all three triangles and thus the whole triangle is:
+$$\frac{1}{2}\left(\sqrt{r_1r_2\left(1-r_1r_2\cos ^2\left(\left|θ_1-θ_2\right|\right)\right)}+\sqrt{r_1r_3\left(1-r_1r_3\cos ^2\left(\left|θ_1-θ_3\right|\right)\right)}+\sqrt{r_3r_2\left(1-r_3r_2\cos ^2\left(\left|θ_3-θ_2\right|\right)\right)}\right)$$
