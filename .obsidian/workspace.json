@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c664870623d80cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 21 Problem 4 (32363).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 21 Problem 2 (6234).md",
+                "file": "Week 21 Problem 4 (32363).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 21 Problem 2 (6234).md",
+                "file": "Week 21 Problem 4 (32363).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 21 Problem 2 (6234).md"
+                "file": "Week 21 Problem 4 (32363).md"
               }
             }
           },
@@ -206,8 +218,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e327421f57b625a",
+  "active": "c664870623d80cf5",
   "lastOpenFiles": [
+    "Week 21 Problem 4 (32363).md",
     "Week 21 Problem 2 (6234).md",
     "Week 21 Problem 1 (6233).md",
     "Week 20 Problem 8 (6221).md",
@@ -235,7 +248,6 @@
     "Math/Week 18 Problem 7 (27076).md",
     "Math/Week 18 Problem 6 (27076).md",
     "Math/Week 18 Problem 5 (27064).md",
-    "Math",
-    "Welcome.md"
+    "Math"
   ]
 }
