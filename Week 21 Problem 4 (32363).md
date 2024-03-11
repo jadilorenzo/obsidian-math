@@ -41,3 +41,20 @@ v &= z\\
 \theta&=t
 \end{align}$$
 $$-\frac{k}{h^{2}}\left(x-h\right)^{2}+k$$
+
+
+
+$$
+\begin{align}
+x &= vt\cos\theta \\
+\frac{1}{t}=\frac{v\cos \theta}{x} \\
+t = \frac{x}{v\cos \theta}
+\end{align}
+$$
+
+$$
+\begin{align}
+y &= vt \sin \theta - \frac{1}{2} gt^2 \\
+y &= v \left( \frac{x}{v\cos \theta} \right) \sin \theta - \frac{1}{2} g \left( \frac{x}{v\cos \theta} \right)^2
+\end{align}
+$$
