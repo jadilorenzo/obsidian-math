@@ -28,6 +28,10 @@ $$\left(\frac{2v^2 \sin \theta \cos \theta}{g}, 0\right)$$
 
 Converting this parabola to rectangular coordinates...
 $$y = -\frac{\frac{v^{2}\sin^{2}\left(\theta\right)}{2g}}{\left( \frac{v^{2}\sin\left(\theta\right)\cos\left(\theta\right)}{g} \right) ^{2}}\left(x-\frac{v^{2}\sin\left(\theta\right)\cos\left(\theta\right)}{g}\right)^{2}+\frac{v^{2}\sin^{2}\left(\theta\right)}{2g}$$
+
+$$\int_{0}^{\frac{2v \sin \theta}{g}}  -\frac{g}{2v^2\cos ^2\left(θ\right)} \left(x-\frac{v^{2}\sin\left(\theta\right)\cos\left(\theta\right)}{g}\right)^{2}+\frac{v^{2}\sin^{2}\left(\theta\right)}{2g} \, dx = \frac{\left(\sin ^3\left(\theta \right)\left(3v\cos \left(\theta \right)-2\right)\cdot v\right)}{3\cos ^2\left(\theta \right)\cdot g^2}$$
+
+
 $$y = -\frac{\left(xg-v\sin \left(\theta\right)\cos \left(\theta\right)\right)^2}{2v\cos ^2\left(\theta\right)g}+\frac{v\sin ^2\left(\theta\right)}{2g}$$
 
 $$
@@ -36,3 +40,4 @@ g &= y \\
 v &= z\\
 \theta&=t
 \end{align}$$
+0
