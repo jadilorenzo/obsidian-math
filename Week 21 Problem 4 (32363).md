@@ -26,3 +26,13 @@ $$\begin{align}
 
 $$\left(\frac{2v^2 \sin \theta \cos \theta}{g}, 0\right)$$
 
+Converting this parabola to rectangular coordinates...
+$$y = -\frac{\frac{v^{2}\sin^{2}\left(\theta\right)}{2g}}{\left( \frac{v^{2}\sin\left(\theta\right)\cos\left(\theta\right)}{g} \right) ^{2}}\left(x-\frac{v^{2}\sin\left(\theta\right)\cos\left(\theta\right)}{g}\right)^{2}+\frac{v^{2}\sin^{2}\left(\theta\right)}{2g}$$
+$$y = -\frac{\left(xg-v\sin \left(\theta\right)\cos \left(\theta\right)\right)^2}{2v\cos ^2\left(\theta\right)g}+\frac{v\sin ^2\left(\theta\right)}{2g}$$
+
+$$
+\begin{align}
+g &= y \\
+v &= z\\
+\theta&=t
+\end{align}$$
