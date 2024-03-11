@@ -40,4 +40,4 @@ g &= y \\
 v &= z\\
 \theta&=t
 \end{align}$$
-0
+$$-\frac{k}{h^{2}}\left(x-h\right)^{2}+k$$
