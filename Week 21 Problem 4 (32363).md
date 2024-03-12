@@ -29,7 +29,7 @@ $$\left(\frac{2v^2 \sin \theta \cos \theta}{g}, 0\right)$$
 Converting this parabola to rectangular coordinates...
 $$y = -\frac{\frac{v^{2}\sin^{2}\left(\theta\right)}{2g}}{\left( \frac{v^{2}\sin\left(\theta\right)\cos\left(\theta\right)}{g} \right) ^{2}}\left(x-\frac{v^{2}\sin\left(\theta\right)\cos\left(\theta\right)}{g}\right)^{2}+\frac{v^{2}\sin^{2}\left(\theta\right)}{2g}$$
 
-$$\int_{0}^{\frac{2v \sin \theta}{g}}  -\frac{g}{2v^2\cos ^2\left(θ\right)} \left(x-\frac{v^{2}\sin\left(\theta\right)\cos\left(\theta\right)}{g}\right)^{2}+\frac{v^{2}\sin^{2}\left(\theta\right)}{2g} \, dx = \frac{\left(\sin ^3\left(\theta \right)\left(3v\cos \left(\theta \right)-2\right)\cdot v\right)}{3\cos ^2\left(\theta \right)\cdot g^2}$$
+$$\int_{0}^{\frac{2v \sin \theta}{g}}  -\frac{g}{2v^2\cos ^2\left(\theta\right)} \left(x-\frac{v^{2}\sin\left(\theta\right)\cos\left(\theta\right)}{g}\right)^{2}+\frac{v^{2}\sin^{2}\left(\theta\right)}{2g} \, dx = \frac{\left(\sin ^3\left(\theta \right)\left(3v\cos \left(\theta \right)-2\right)\cdot v\right)}{3\cos ^2\left(\theta \right)\cdot g^2}$$
 
 
 $$y = -\frac{\left(xg-v\sin \left(\theta\right)\cos \left(\theta\right)\right)^2}{2v\cos ^2\left(\theta\right)g}+\frac{v\sin ^2\left(\theta\right)}{2g}$$
@@ -61,4 +61,13 @@ $$
 
 $2\sin \theta \cos \theta = \sin(2\theta)$
 
-$$-\frac{v\sec ^2\left(θ\right)\sin ^3\left(2θ\right)}{6g^2}+\frac{v^2\tan \left(θ\right)\sin ^2\left(2θ\right)}{2g^2}$$$\sin ^2\left(2\theta\right)\left(-\sec ^2\left(\theta\right)\sin \left(2\theta\right)+3\tan \left(\theta\right)\right) \cdot \left( \frac{v^4}{g^2}\right)$
+$$-\frac{v\sec ^2\left(\theta\right)\sin ^3\left(2\theta\right)}{6g^2}+\frac{v^2\tan \left(\theta\right)\sin ^2\left(2\theta\right)}{2g^2}$$$\sin ^2\left(2\theta\right)\left(-\sec ^2\left(\theta\right)\sin \left(2\theta\right)+3\tan \left(\theta\right)\right) \cdot \left( \frac{v^4}{g^2}\right)$
+
+$-\frac{v^4\sec ^2\left(\theta\right)\sin ^3\left(2\theta\right)}{6g^2}+\frac{v^4\tan \left(\theta\right)\sin ^2\left(2\theta\right)}{2g^2}$
+$\frac{-v^4\sec ^2\left(\theta\right)\sin ^3\left(2\theta\right)+3v^4\tan \left(\theta\right)\sin ^2\left(2\theta\right)}{6g^2}$
+$-\frac{v^4\left(\sec ^2\left(\theta\right)\sin ^3\left(2\theta\right)+3\tan \left(\theta\right)\sin ^2\left(2\theta\right)\right)}{6g^2}$
+$\sin ^2\left(2\theta\right)\left(\sec ^2\left(\theta\right)\sin \left(2\theta\right)+3\tan \left(\theta\right)\right) \cdot \left(-\frac{v^4}{6g^2}\right)$
+$5\sin ^2\left(2\theta\right)\tan \left(\theta\right) \cdot \left(-\frac{v^4}{6g^2}\right)$
+$\sin ^2\left(2\theta\right)\tan \left(\theta\right) \cdot \left(-\frac{5v^4}{6g^2}\right)$
+
+$- \frac{5}{6} \sin ^2\left(2\theta\right)\tan \left(\theta\right)$
