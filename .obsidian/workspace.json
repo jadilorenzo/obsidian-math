@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 21 Problem 4 (32363).md",
+                "file": "Week 21 Problem 7 (6239).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 21 Problem 4 (32363).md",
+                "file": "Week 21 Problem 7 (6239).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 21 Problem 4 (32363).md"
+                "file": "Week 21 Problem 7 (6239).md"
               }
             }
           },
@@ -177,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6ef03db8b189daa",
+  "active": "db81588b5eeb05ac",
   "lastOpenFiles": [
-    "Week 21 Problem 7 (6239).md",
     "Week 21 Problem 4 (32363).md",
+    "Week 21 Problem 7 (6239).md",
     "Week 20 Problem 6 (38627).md",
     "Week 20 Problem 8 (6221).md",
     "Week 21 Problem 1 (6233).md",
