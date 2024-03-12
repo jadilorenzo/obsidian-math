@@ -58,3 +58,7 @@ y &= vt \sin \theta - \frac{1}{2} gt^2 \\
 y &= v \left( \frac{x}{v\cos \theta} \right) \sin \theta - \frac{1}{2} g \left( \frac{x}{v\cos \theta} \right)^2
 \end{align}
 $$
+
+$2\sin \theta \cos \theta = \sin(2\theta)$
+
+$$-\frac{v\sec ^2\left(θ\right)\sin ^3\left(2θ\right)}{6g^2}+\frac{v^2\tan \left(θ\right)\sin ^2\left(2θ\right)}{2g^2}$$$\sin ^2\left(2\theta\right)\left(-\sec ^2\left(\theta\right)\sin \left(2\theta\right)+3\tan \left(\theta\right)\right) \cdot \left( \frac{v^4}{g^2}\right)$

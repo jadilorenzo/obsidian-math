@@ -2,3 +2,4 @@ Let $f : [0,1] \rightarrow [0,1]$ be a continuous function (not necessarily diff
 $$\int_0^1 f(x)\,dx > \frac34.$$
 
 Let us begin by splitting this integral into two around a constant $c$.
+$$\int_0^1 f(x) \, dx = \int_0^c f(x) \, dx + \int_c^1 f(x) \, dx,$$
