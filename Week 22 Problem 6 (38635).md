@@ -6,6 +6,8 @@ The function $f(x),$ defined for $x \ge 0,$ has the following properties:
 (a) Find a differential equation that the function $f(x)$ satisfies. (In particular, this equation will involve $f(x)$ and $f'(x).$)
 (b) Prove that $f(x) = 2 \sqrt{x} + kx$ for some constant $k.$
 
+
+initial equation $a f(a)$ - $\int_{0}^a \sqrt{ x }  \, dx$ = $d$
 $$\int_0^a f(x) \, dx - \int_0^a \sqrt{x} \, dx = af(a) - \int_0^a f(x) \, dx$$
 $\displaystyle\int_0^af(a)-f(x)\,dx=\int_0^af(x)-\sqrt{x}\,dx$
 $af(a)-\int_0^af(x)\,dx$
