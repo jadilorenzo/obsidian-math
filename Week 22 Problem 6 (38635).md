@@ -22,6 +22,9 @@ $$
 af(a)-\int_0^af(x)\,dx &= \int_0^a f(x)-\sqrt{x} \, dx \\
 af(a)-\int_0^af(x)\,dx &= \int_0^a f(x) \, dx - \int_0^a \sqrt{x} \, dx \\
 af(a)-\int_0^af(x)\,dx &= \int_0^a f(x) \, dx - \frac{2a^{3/2}}{3} \\
-af(a)+ \frac{2a^{3/2}}{3} &= 2\int_0^a f(x) \, dx
+af(a)+ \frac{2a^{3/2}}{3} &= 2\int_0^a f(x) \, dx \\
+\frac{d}{da} af(a)+ \frac{d}{da}\frac{2a^{3/2}}{3} &= \frac{d}{da} 2\int_0^a f(x) \, dx \\
+a f'(a) + f(a) + \sqrt{ a } &= 2 f'(a) \\
+a f'(a) + f(a) + \sqrt{ a } &= 2 f'(a) \\
 \end{align*}
 $$
