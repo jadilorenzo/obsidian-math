@@ -25,5 +25,5 @@ $$
 (b) 
 Plugging in $f(x)=2\sqrt{x}+kx$ we get:
 $$
-\frac{d}{dx}\frac{1}{\sqrt{x}}+C = \frac{2\sqrt{x}+kx-\sqrt{x}}{x} = \frac{\sqrt{ x }}{x}+k = \frac{1}{\sqrt{x}}+k.
+\frac{d}{dx} \left(2\sqrt{ x } + kx\right) = \frac{1}{\sqrt{x}}+C = \frac{2\sqrt{x}+kx-\sqrt{x}}{x} = \frac{\sqrt{ x }}{x}+k = \frac{1}{\sqrt{x}}+k.
 $$
