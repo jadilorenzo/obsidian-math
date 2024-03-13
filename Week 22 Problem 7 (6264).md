@@ -10,6 +10,8 @@ We also know $a_{1} = 1$ because the slope is $1$ at $(0,1)$.
 
 $$
 \begin{align}
-\frac{d}{dx}\left(1 + x + a_2 x^2 + a_3 x^3\right) = x \cdot \left(1 + x + a_2 x^2 + a_3 x^3\right)^2
+\frac{d}{dx}\left(1 + x + a_2 x^2 + a_3 x^3\right) &= x \cdot \left(1 + x + a_2 x^2 + a_3 x^3\right)^2 \\
+3 a_3 x^2 + 2 a_2 x + 1 &= x \cdot \left(1 + x + a_2 x^2 + a_3 x^3\right)^2 \\
+3 a_3 x^2 + 2 a_2 x + 1 &= a_3^2 x^7 + 2 a_2 a_3 x^6 + a_2^2 x^5 + 2 a_3 x^5 + 2 a_2 x^4 + 2 a_3 x^4 + 2 a_2 x^3 + x^3 + 2 x^2 + x
 \end{align}
 $$
