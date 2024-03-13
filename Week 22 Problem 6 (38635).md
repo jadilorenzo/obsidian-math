@@ -6,29 +6,24 @@ The function $f(x),$ defined for $x \ge 0,$ has the following properties:
 (a) Find a differential equation that the function $f(x)$ satisfies. (In particular, this equation will involve $f(x)$ and $f'(x).$)
 (b) Prove that $f(x) = 2 \sqrt{x} + kx$ for some constant $k.$
 
-
-initial equation $a f(a)$ - $\int_{0}^a \sqrt{ x }  \, dx$ = $d$
-$$\int_0^a f(x) \, dx - \int_0^a \sqrt{x} \, dx = af(a) - \int_0^a f(x) \, dx$$
-$\displaystyle\int_0^af(a)-f(x)\,dx=\int_0^af(x)-\sqrt{x}\,dx$
-$af(a)-\int_0^af(x)\,dx$
-$af'(a)=f(a)-\sqrt{a}$
-
+(a)
 $$
-\begin{align*}
-\int_0^a f(a)-f(x)\,dx &= \int_0^a f(x)-\sqrt{x} \, dx
-\end{align*}
+\int_0^a f(a)-f(x)\,dx = \int_0^a f(x)-\sqrt{x} \, dx
 $$
 We know f(a) is a constant so
 $$
 \begin{align*}
 af(a)-\int_0^af(x)\,dx &= \int_0^a f(x)-\sqrt{x} \, dx \\
 af(a)-\int_0^af(x)\,dx &= \int_0^a f(x) \, dx - \int_0^a \sqrt{x} \, dx \\
-af(a)-\int_0^af(x)\,dx &= \int_0^a f(x) \, dx - \frac{2a^{3/2}}{3} \\
-af(a)+ \frac{2a^{3/2}}{3} &= 2\int_0^a f(x) \, dx \\
-\frac{d}{da} af(a)+ \frac{d}{da}\frac{2a^{3/2}}{3} &= \frac{d}{da} 2\int_0^a f(x) \, dx \\
-a f'(a) + f(a) + \sqrt{ a } &= 2 f'(a) \\
-f(a) + \sqrt{ a } &= 2 f'(a) - a f'(a) \\
-\frac{f(a) + \sqrt{ a }}{2-a} &= f'(a) \\
+a f'(a) + f(a) + \sqrt{ a } &= 2 f(a) \\
+- f(a) + \sqrt{ a } &= - a f'(a) \\
+af'(a) &= f(a)-\sqrt{a} \\
+f'(a) &= \frac{f(a)-\sqrt{a}}{a}. \\
 \end{align*}
 $$
-$$af'(a)=f(a)-\sqrt{a}$$
+
+(b) 
+Plugging in $f(x)=2\sqrt{x}+kx$ we get:
+$$
+\frac{d}{dx}\frac{1}{\sqrt{x}}+C = \frac{2\sqrt{x}+kx-\sqrt{x}}{x} = \frac{\sqrt{ x }}{x}+k = \frac{1}{\sqrt{x}}+k.
+$$
