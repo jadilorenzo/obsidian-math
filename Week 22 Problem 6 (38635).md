@@ -20,6 +20,8 @@ We know f(a) is a constant so
 $$
 \begin{align*}
 af(a)-\int_0^af(x)\,dx &= \int_0^a f(x)-\sqrt{x} \, dx \\
-af(a)-\int_0^af(x)\,dx &= \int_0^a f(x) \, dx - \int_0^a \sqrt{x} \, dx
+af(a)-\int_0^af(x)\,dx &= \int_0^a f(x) \, dx - \int_0^a \sqrt{x} \, dx \\
+af(a)-\int_0^af(x)\,dx &= \int_0^a f(x) \, dx - \frac{2a^{3/2}}{3} \\
+af(a)+ \frac{2a^{3/2}}{3} &= 2\int_0^a f(x) \, dx
 \end{align*}
 $$
