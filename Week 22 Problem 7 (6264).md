@@ -14,3 +14,9 @@ $$
 3 a_3 x^2 + 2 a_2 x + 1 &= x + (1 + x + a_2 x^2 + a_3 x^3)^2 \\
 \end{align}
 $$
+
+We see $a_2 = \frac{3}{2}.$
+This makes $a_{3} = \frac{4}{3}$
+
+
+$a_0, a_1, a_2, a_3 = 1, 1, \frac{3}{2}, \frac{4}{3}$.
