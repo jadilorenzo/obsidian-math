@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db81588b5eeb05ac",
+            "id": "0ad64ff4b38aeac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 21 Problem 7 (6239).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "243bf6e45541c611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 22 Problem 2 (6251).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "319ff643c1afb7db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 22 Problem 4 (32367).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87b4fed9a6815669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 22 Problem 5 (6263).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "669bfe9b4a70ac2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 22 Problem 6 (38635).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18e02d354e04d24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 22 Problem 7 (6264).md",
+                "file": "Week 23 Problem 1 (32371).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 22 Problem 7 (6264).md",
+                "file": "Week 23 Problem 1 (32371).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 22 Problem 7 (6264).md",
+                "file": "Week 23 Problem 1 (32371).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 22 Problem 7 (6264).md"
+                "file": "Week 23 Problem 1 (32371).md"
               }
             }
           },
@@ -226,11 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18e02d354e04d24a",
+  "active": "0ad64ff4b38aeac4",
   "lastOpenFiles": [
+    "Week 23 Problem 1 (32371).md",
+    "Week 22 Problem 7 (6264).md",
     "Week 21 Problem 7 (6239).md",
     "Week 22 Problem 2 (6251).md",
-    "Week 22 Problem 7 (6264).md",
     "Week 22 Problem 6 (38635).md",
     "Week 22 Problem 5 (6263).md",
     "Week 22 Problem 4 (32367).md",
@@ -255,7 +195,6 @@
     "Week 19 Problem 1, part (d) (5945).md",
     "Screenshot 2024-02-19 at 2.29.06 PM.png",
     "Week 18 Problem 7 (27077).md",
-    "Week 18 Problem 12 (5930).md",
     "Math"
   ]
 }
