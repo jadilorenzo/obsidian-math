@@ -1,5 +1,16 @@
 Find the function $f(x)$ that satisfies $$f(x) = 1 - \int_0^x [f(t)]^2 \ dt$$for all $x \ge 0.$
 
+if we assign $$g(x) = [f(x)]^2$$, we know 
+
+
+
+
+
+
+
+
+
+
 $$
 \begin{align}
 f(x) &= 1 - \int_0^x [f(t)]^2 \ dt \\
