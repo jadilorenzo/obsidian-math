@@ -1,0 +1,1 @@
+$e^{(a + bi)x} =e^{ax} \cos(bx) + i e^{ax} \sin(bx)$

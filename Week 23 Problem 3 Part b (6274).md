@@ -15,3 +15,5 @@ y''' &= e^{-\frac{x}{2}}\cos \left(\frac{\sqrt{3}x}{2}\right)
 \end{align*}$$
 
 Since if $\omega = -\dfrac12 + \dfrac{\sqrt3}{2}i$, then $\omega^3 = 1$, this implies the ratio of one to be present in the third-order linear differential equation, which it is. 
+
+$e^{ax} \cos(bx) + i e^{ax} \sin(bx)$

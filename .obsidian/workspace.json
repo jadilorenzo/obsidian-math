@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 23.md",
+                "file": "Week 23 Problem 3 Part b (6274).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11715f03e2e2862c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 23 Problem 3 Part c (6282).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 23.md",
+                "file": "Week 23 Problem 3 Part c (6282).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 23.md",
+                "file": "Week 23 Problem 3 Part c (6282).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 23.md"
+                "file": "Week 23 Problem 3 Part c (6282).md"
               }
             }
           },
@@ -178,9 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7250b5fddf14c574",
+  "active": "11715f03e2e2862c",
   "lastOpenFiles": [
-    "Week 23.md",
+    "Week 23 Problem 3 Part c (6282).md",
+    "Week 23 Problem 3 Part b (6274).md",
     "Week 23 Problem 2 (47313).md",
     "Week 23 Problem 1 (32371).md",
     "Week 22 Problem 7 (6264).md",
@@ -206,7 +219,6 @@
     "Week 19 Problem 6 (5948).md",
     "Week 19 Problem 2 (32327).md",
     "Week 19 Problem 3 (5947).md",
-    "Week 19 Problem 4 (5949).md",
     "Screenshot 2024-02-19 at 2.29.06 PM.png",
     "Math"
   ]
