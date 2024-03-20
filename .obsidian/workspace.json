@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b833fb72c5ad08f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 23 Problem 6 (32368).md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 23 Problem 6 (32368).md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 23 Problem 6 (32368).md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -202,10 +214,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba09f9d3d89adc8f",
+  "active": "b833fb72c5ad08f8",
   "lastOpenFiles": [
-    "Week 23 Problem 2 (47313).md",
+    "Untitled.md",
     "Week 23 Problem 6 (32368).md",
+    "Week 23 Problem 2 (47313).md",
     "Week 23 Problem 3 Part c (6282).md",
     "Week 23 Problem 3 Part b (6274).md",
     "Week 23 Problem 1 (32371).md",
@@ -230,7 +243,6 @@
     "Week 19 Problem 8 (38626).md",
     "Week 19 Problem 7 (5951).md",
     "Week 19 Problem 6 (5948).md",
-    "Week 19 Problem 2 (32327).md",
     "Screenshot 2024-02-19 at 2.29.06 PM.png",
     "Math"
   ]
