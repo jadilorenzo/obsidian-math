@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c6da3a67971d757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 24 Problem 2 (6297).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Week 24 Problem 2 (6297).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Week 24 Problem 2 (6297).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Week 24 Problem 2 (6297).md"
               }
             }
           },
@@ -214,13 +226,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b833fb72c5ad08f8",
+  "active": "8c6da3a67971d757",
   "lastOpenFiles": [
-    "Week 23 Problem 6 (32368).md",
-    "Untitled.md",
     "Week 23 Problem 2 (47313).md",
-    "Week 23 Problem 3 Part c (6282).md",
     "Week 23 Problem 3 Part b (6274).md",
+    "Week 23 Problem 3 Part c (6282).md",
+    "Week 24 Problem 2 (6297).md",
+    "Untitled.md",
+    "Week 23 Problem 6 (32368).md",
     "Week 23 Problem 1 (32371).md",
     "Week 22 Problem 7 (6264).md",
     "Week 21 Problem 7 (6239).md",
@@ -242,7 +255,6 @@
     "Week 18 Problem 5 (27064).md",
     "Week 19 Problem 8 (38626).md",
     "Week 19 Problem 7 (5951).md",
-    "Week 19 Problem 6 (5948).md",
     "Screenshot 2024-02-19 at 2.29.06 PM.png",
     "Math"
   ]
