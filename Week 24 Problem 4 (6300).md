@@ -14,7 +14,5 @@ $$
 $$
 The first half of this can be simplified to:
 $$
-\begin{align*}
-\left( \log^{2011}(x) \cdot -2010^{-1}x^{-2010}\right) \bigg|_1^{\infty} &= 
-\end{align*}
-$$
+\left( \log^{2011}(x) \cdot -2010^{-1}x^{-2010}\right) \bigg|_1^{\infty} = \lim_{ x \to \infty } \left( \log^{2011}(x) \cdot -2010^{-1}x^{-2010}\right)
+$$ ($\log(1) = 0$)
