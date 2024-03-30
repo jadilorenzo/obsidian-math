@@ -1,6 +1,10 @@
+Evaluate $\displaystyle \int_1^\infty \left(\frac{\log x}{x}\right)^{2011}dx$.
+
 $$
 \begin{align}
 \int_1^\infty\frac{(\log x)^m}{x^n}dx=\left.-\frac{(\log x)^m}{(n-1)x^{n-1}}\right|^{\infty}_{1}+\int_1^{\infty}\frac{m(\log x)^{m-1}}{(n-1)x^{n}} \\
 \int_1^\infty \frac{\log (x)^m}{x^n}dx=-\dfrac{m}{1-n}\int_1^\infty\dfrac{\log(x)^{m-1}}{x^{n}}\,dx
 \end{align}
 $$
+
+Let's see if we can turn this into a series. We begin by using integration by parts, setting $$u = (\log x)^{2011} \text{ and } dv = \frac{1}{x^{2011}} \,dx= x^{-2011}\,dx.$$The Chain Rule tells us that $$du = \frac{1}{x} \cdot 2010(\log x)^{2010} \,dx = \frac{2010(\log x)^{2010}}{x} \,dx $$and substitution lets us find that $$v = -\frac{x^{-2010}}{2010}.$$Therefore,  $$\begin{align*} \int_1^{\infty} \left(\frac{\log x}{x}\right)^{2011}dx &=  \left((\log x)^{2011} \cdot \left(-\frac{x^{-2010}}{2010}\right)\right)\bigg|_1^{\infty} - \int_1^{\infty} \left( -\frac{x^{-2010}}{2010} \cdot \frac{2010(\log x)^{2010}}{x}\right) \,dx \\ &=  \left(-\frac{(\log x)^{2011}x^{-2010}}{2010}\right)\bigg|_1^{\infty} - \int_1^{\infty} \left( -\frac{x^{-2010}2010(\log x)^{2010}}{2010x}\right) \,dx \\ &=  \left(-\frac{(\log x)^{2011}}{2010x^{2010}}\right)\bigg|_1^{\infty} - \int_1^{\infty} \left( -\frac{x^{-2010}(\log x)^{2010}}{x}\right) \,dx \\ &=  \left(-\frac{(\log x)^{2011}}{2010x^{2010}}\right)\bigg|_1^{\infty} - \int_1^{\infty} \left( -\frac{(\log x)^{2010}}{x^{2011}}\right) \,dx. \\ \end{align*}$$ We can simplify the leftmost term as follows:  $$\begin{align*} &~~~~\lim_{a\to\infty}\left(-\frac{(\log a)^{2011}}{2010a^{2010}}\right) - \left(-\frac{(\log 1)^{2011}}{2010(1^{2010})}\right)\\ &=-\frac{1}{2010}\lim_{a\to\infty}\left(\frac{(\log a)^{2011}}{a^{2010}}\right) + \frac{0}{2010}\\ &=-\frac{1}{2010}\lim_{a\to\infty}\left(\frac{(\log a)^{2011}}{a^{2010}}\right)\\ \end{align*}$$$$\frac{2011!}{2010^{2011}}\int_0^{\infty}\frac{\log x^0}{x^{2011}}.$$
