@@ -16,3 +16,8 @@ The first half of this can be simplified to:
 $$
 \left( \log^{2011}(x) \cdot -2010^{-1}x^{-2010}\right) \bigg|_1^{\infty} = \lim_{ x \to \infty } \left( \log^{2011}(x) \cdot -2010^{-1}x^{-2010}\right)
 $$ ($\log(1) = 0$)
+$$
+\begin{align}
+\lim_{ x \to \infty } \left( \log^{2011}(x) \cdot -2010^{-1}x^{-2010}\right) = \frac{\log^{2011}(x)}{-2010x^{2010}}\
+\end{align}
+$$
