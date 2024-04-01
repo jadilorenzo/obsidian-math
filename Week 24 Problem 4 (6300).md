@@ -25,7 +25,8 @@ $$\int_1^\infty \frac{\log (x)^m}{x^n}\,dx=-\dfrac{m}{1-n}\int_1^\infty\dfrac{\l
 
 $$
 \begin{align}
-\int_1^\infty \frac{\log (x)^m}{x^n}\,dx &= -\frac{(\log x)^m}{(n-1)x^{n-1}}\right|^{\infty}_{1}+\int_1^{\infty}\frac{m(\log x)^{m-1}}{(n-1)x^{n}} \\
-&=
+\int_1^\infty \frac{\log (x)^m}{x^n}\,dx &= \left.-\frac{(\log x)^m}{(n-1)x^{n-1}}\right|^{\infty}_{1}+\int_1^{\infty}\frac{m(\log x)^{m-1}}{(n-1)x^{n}} \\
+&= \lim_{ x \to \infty } \left( -\frac{(\log x)^m}{(n-1)x^{n-1}} \right) 
 \end{align}
 $$
+$x^{n-1}$ increases faster than $\log(x)^m$.
