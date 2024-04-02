@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98ce8e7ad8a2a944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 24 Problem 4 (6300) Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e8800ec2bf3c9ffb",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
