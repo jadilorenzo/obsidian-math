@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,10 +233,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0824c28f1d567aeb",
+  "active": "b9120c4f371a8c35",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "Untitled 2.md",
+    "Untitled 3.md",
     "Derivative Practice.md",
     "Calc Study Notes.md",
     "Screenshot 2024-02-28 at 3.55.49 PM.png",
