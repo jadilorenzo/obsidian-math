@@ -48,6 +48,20 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "b9120c4f371a8c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
           }
         ],
         "currentTab": 2
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "    ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,6 +235,7 @@
   },
   "active": "0824c28f1d567aeb",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "Untitled 2.md",
     "Derivative Practice.md",
     "Calc Study Notes.md",
@@ -247,7 +263,6 @@
     "Week 20 Problem 6 (38627).md",
     "Week 20 Problem 8 (6221).md",
     "Week 21 Problem 1 (6233).md",
-    "Week 21 Problem 2 (6234).md",
     "Screenshot 2024-02-19 at 2.29.06 PM.png",
     "Math"
   ]
