@@ -11,6 +11,7 @@ $$\begin{align*}
 d(\sqrt{ x^2-1 }) &= 2x \frac{1}{\sqrt{ x^2-1 }} \\
 &= \frac{2x}{\sqrt{ x^2 -1 }}
 \end{align*}$$
+(c)
 $$\begin{align*}
-d(\log(x^3 + \cos x)) &= 
+d(\log(x^3 + \cos x)) &= \frac{(3x^2 - \sin x)}{(x^3 + \cos x)}
 \end{align*}$$
