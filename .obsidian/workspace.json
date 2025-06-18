@@ -25,12 +25,14 @@
             "id": "f91666bdab8639e2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshot 2024-02-28 at 3.55.49 PM.png"
+                "file": "Calc Study Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-02-28 at 3.55.49 PM"
+              "icon": "lucide-file",
+              "title": "Calc Study Notes"
             }
           }
         ],
@@ -204,8 +206,8 @@
   },
   "active": "f91666bdab8639e2",
   "lastOpenFiles": [
-    "Screenshot 2024-02-19 at 2.29.06 PM.png",
     "Screenshot 2024-02-28 at 3.55.49 PM.png",
+    "Screenshot 2024-02-19 at 2.29.06 PM.png",
     "Derivative Practice.md",
     "Calc Study Notes.md",
     "Week 23 Problem 6 (32368).md",
