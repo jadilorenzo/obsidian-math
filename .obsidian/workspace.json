@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Derivative Practice"
             }
-          },
-          {
-            "id": "d417bb56b9bf9f7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seven Deadly Calm Responses That Humiliate Any Narcissist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seven Deadly Calm Responses That Humiliate Any Narcissist"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e34a0025ab3ef66",
@@ -219,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d417bb56b9bf9f7d",
+  "active": "f91666bdab8639e2",
   "lastOpenFiles": [
     "Seven Deadly Calm Responses That Humiliate Any Narcissist.md",
     "Derivative Practice.md",
