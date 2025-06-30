@@ -7,7 +7,7 @@ $$
 \frac{d}{dx} \sec(x) &= \sec(x) \tan(x) \\
 \frac{d}{dx} \csc(x) &= -\csc(x)\cot(x) \\
 \frac{d}{dx}\arcsin(x) &= \frac{1}{\sqrt{ 1-x^2 }} \\
-\frac{d}{dx} \arctan(x) &= 
+\frac{d}{dx} \arctan(x) &= \frac{1}{1+x^2}
 \end{align*}
 $$\
 
