@@ -49,8 +49,7 @@
               "title": "Untitled 4"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "**",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,10 +218,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97de8ff41322f76b",
+  "active": "36c8e1121e457e11",
   "lastOpenFiles": [
-    "Untitled 4.md",
     "Derivative Practice.md",
+    "Untitled 4.md",
     "Seven Deadly Calm Responses That Humiliate Any Narcissist.md",
     "Untitled 3.md",
     "Untitled 2.md",
